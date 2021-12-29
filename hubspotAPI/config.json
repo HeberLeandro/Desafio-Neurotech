@@ -1,0 +1,6 @@
+{
+    "api_key":"1eea8bdd-b633-4c2e-a695-1ea580d343e1",
+    "redirect_uri":"http://localhost:8000/auth",
+    "client_id":"ab20ae3d-1be2-4ce2-803b-9e7ce2b6b526",
+    "client_secret":"975e2b22-37e7-4025-932b-d0ab80a2c39f"
+}
